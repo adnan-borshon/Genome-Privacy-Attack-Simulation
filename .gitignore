@@ -1,0 +1,14 @@
+# Dataset files
+Genome dataset/
+*.vcf.gz
+*.vcf.gz.tbi
+
+# Temporary Office lock files
+~$*
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
