@@ -1,6 +1,6 @@
-SNP_Count,Total_Targets,Unique_Matches,Ties,No_Candidate,Unique_Match_Rate
-5,50,4,46,0,0.08
-10,50,9,41,0,0.18
-20,50,28,22,0,0.56
-50,50,38,12,0,0.76
-100,50,37,13,0,0.74
+SNP_Count,Total_Targets,Unique_Matches,Ties,No_Candidate,Unique_Match_Rate,False_Alarm_Count
+5,50,1,49,0,0.02,45
+10,50,11,39,0,0.22,32
+20,50,45,5,0,0.9,4
+50,50,50,0,0,1.0,0
+100,50,50,0,0,1.0,0
